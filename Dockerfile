@@ -1,4 +1,4 @@
-FROM rocker/ml-cpu:latest
+FROM rocker/ml-gpu:latest
 # Pulls latest Rocker CPU Machine Learning Container https://github.com/rocker-org/ml
 
 MAINTAINER "Tyson Lee Swetnam tswetnam@cyverse.org"
